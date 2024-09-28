@@ -18,3 +18,27 @@ aside {
   flex: 1;
   overflow-y: auto;
 }
+
+.joy {
+  height: 360px;
+  margin-bottom: 10px;
+}
+
+.comment-thread {
+  height: 150px;
+  border-color: grey;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.credits {
+  color: grey;
+  margin-top: 10px;
+}
+
+input::placeholder {
+  position: relative;
+  color: rgb(45, 45, 46);
+}
+  
